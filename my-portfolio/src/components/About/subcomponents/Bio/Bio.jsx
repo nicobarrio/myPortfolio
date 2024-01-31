@@ -1,4 +1,4 @@
-import './Bio.css';
+import './Bio.scss';
 
 const Bio = (props) => {
     return (

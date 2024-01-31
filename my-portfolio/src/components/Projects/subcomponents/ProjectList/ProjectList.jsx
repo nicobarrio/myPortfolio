@@ -1,4 +1,4 @@
-import './ProjectList.css';
+import './ProjectList.scss';
 import Project1 from '../../../../assets/project-1.png';
 import Project2 from '../../../../assets/project-2.png';
 import ProjectCard from '../../subcomponents/ProjectCard/ProjectCard.jsx'

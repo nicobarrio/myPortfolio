@@ -1,0 +1,23 @@
+// Header
+@import 'components/Header/Header';
+@import 'components/Header/subcomponents/Welcome/Welcome';
+@import 'components/Header/subcomponents/Navbar/Navbar';
+
+// Introduction 
+@import 'components/Introduction/Introduction';
+
+// About
+@import 'components/About/About';
+@import 'components/About/subcomponents/Profile/Profile';
+@import 'components/About/subcomponents/Bio/Bio';
+
+// Contact 
+@import 'components/Contact/Contact';
+
+// Resume 
+@import 'components/Resume/Resume';
+
+// Projects 
+@import 'components/Projects/Projects';
+@import 'components/Projects/subcomponents/ProjectCard/ProjectCard';
+@import 'components/Projects/subcomponents/ProjectList/ProjectList';

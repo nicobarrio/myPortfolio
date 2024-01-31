@@ -1,4 +1,4 @@
-import './Projects.css';
+import './Projects.scss';
 import ProjectList from './subcomponents/ProjectList/ProjectList.jsx';
 
 const Projects = (props) => {

@@ -1,4 +1,4 @@
-import './Footer.css';
+import './Footer.scss';
 import MeetYou from './subcomponents/MeetYou/MeetYou.jsx';
 import Links from './subcomponents/Links/Links.jsx'
 

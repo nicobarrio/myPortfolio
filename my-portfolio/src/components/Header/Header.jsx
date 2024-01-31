@@ -1,4 +1,4 @@
-import './Header.css';
+import './Header.scss';
 import Welcome from './subcomponents/Welcome/Welcome.jsx';
 import Navbar from './subcomponents/Navbar/Navbar.jsx'
 

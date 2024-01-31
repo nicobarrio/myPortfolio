@@ -1,4 +1,4 @@
-import './About.css';
+import './About.scss';
 import Profile from './subcomponents/Profile/Profile.jsx';
 import Bio from './subcomponents/Bio/Bio.jsx';
 

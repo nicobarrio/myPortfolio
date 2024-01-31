@@ -1,4 +1,4 @@
-import './Profile.css';
+import './Profile.scss';
 import ProfilePicture from '../../../../assets/profile.jpg'
 
 const Profile = (props) => {

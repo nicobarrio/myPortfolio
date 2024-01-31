@@ -1,4 +1,4 @@
-import './MeetYou.css';
+import './MeetYou.scss';
 
 const MeetYou = () => {
     return (
